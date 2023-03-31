@@ -54,15 +54,15 @@
     "phone": "123123333333333123"
   },
   {
-    "id": "GJEnhpQnjBt46yKYloTDY",
-    "name": "Maks",
-    "email": "qwe@qwe",
-    "phone": "123123123"
-  },
-  {
     "id": "pHhAnO1BrRIjfwr4l9LxE",
     "name": "Mark",
     "email": "Mark@qwe",
     "phone": "5789789789"
+  },
+  {
+    "id": "qhbkvS3yNnx7TbDVT2d1S",
+    "name": "David",
+    "email": "David@mail.com",
+    "phone": "+38096969688"
   }
 ]
