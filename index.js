@@ -40,12 +40,3 @@ async function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-// invokeAction({ action: "listContacts" });
-// invokeAction({ action: "getContactById", id: "GJEnhpQnjBt46yKYloTDY" });
-// invokeAction({ action: "removeContact", id: "qdggE76Jtbfd9eJHrssH" });
-// invokeAction({
-//   action: "addContact",
-//   name: "Maks",
-//   email: "qwe@qwe",
-//   phone: "123123123",
-// });

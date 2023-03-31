@@ -6,7 +6,6 @@ const { nanoid } = require("./node_modules/nanoid");
 const updateContacts = async (contacts) =>
   fs.writeFile(contactsPath, JSON.stringify(contacts, null, 2));
 
-// TODO: задокументувати кожну функцію
 const listContacts = async () => {
   const allContacts = await fs.readFile(contactsPath);
   return JSON.parse(allContacts);
